@@ -1,4 +1,0 @@
-pytest<7,>=5
-pytest-timeout
-wheel
-setuptools
