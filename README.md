@@ -1,12 +1,12 @@
 # Drug Analyzer
 
-## Introduction
+## Introdução
 
 Você é membro de uma equipe de programação de biotecnologia responsável por criar um sistema para técnicos de laboratório, que os auxiliará na análise de medicamentos.
 
 Seu objetivo é criar o aplicativo que permitirá que eles insiram suas descobertas no sistema, forneçam uma análise significativa e verifiquem a exatidão dos dados que enviaram.
 
-## Prerequisites
+## Pre-requisitos
 
 Para concluir esta tarefa, use`Python 3`.
 
