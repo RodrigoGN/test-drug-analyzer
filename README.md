@@ -102,3 +102,7 @@ Traceback (the most recent call is displayed as the last one):
   File "<stdin>", line 1, in <module>
 ValueError: B03 series is not present within the dataset.
 ```
+```
+Para executar os testes de unidade, use:
+python setup.py pytest
+```
